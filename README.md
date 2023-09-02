@@ -1,3 +1,4 @@
+REMOTE
 # mergeandconflits
 quetes
 quelques lignes de texte
